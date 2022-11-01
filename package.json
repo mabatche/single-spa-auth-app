@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jualoppaz/single-spa-auth-app.git"
+    "url": "https://github.com/mabatche/single-spa-auth-app.git"
   },
   "keywords": [
     "single-spa",
@@ -43,9 +43,9 @@
   ],
   "author": "Juan Manuel López Pazos",
   "bugs": {
-    "url": "https://github.com/jualoppaz/single-spa-auth-app/issues"
+    "url": "https://github.com/mabatche/single-spa-auth-app/issues"
   },
-  "homepage": "https://github.com/jualoppaz/single-spa-auth-app#readme",
+  "homepage": "https://github.com/mabatche/single-spa-auth-app#readme",
   "dependencies": {
     "vue-google-adsense": "1.9.2",
     "vue-script2": "2.1.0"
